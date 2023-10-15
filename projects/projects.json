@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Miftah Rest API",
+    "desc": "Miftah Rest API is a Rest API that is created using the Expressjs Framework and the Nodejs Run Environment.",
+    "image": "restapi",
+    "category": "website",
+    "links": {
+      "view": "https://api.miftahganzz.my.id",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Sf2d Downloader",
+    "desc": "Sf2d is a website downloader that uses API, this website uses the BootStrap 5 framework",
+    "image": "sf2d",
+    "category": "website",
+    "links": {
+      "view": "https://sf2d.site",
+      "code": "#"
+    }
+  },
+  {
+    "name": "AI Website",
+    "desc": "This AI website was created using the ExpressJS framework, and Tailwind CSS, and using the NodeJS run environment.",
+    "image": "ai",
+    "category": "website",
+    "links": {
+      "view": "https://ai.miftah.biz.id",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Telegram Bot",
+    "desc": "Telegram Bot AI is a bot that is created using JS, and runs the NodeJS environment, and is integrated with the Telegram Bot API.",
+    "image": "telegram",
+    "category": "bot",
+    "links": {
+      "view": "https://t.me/zexchatbot_bot",
+      "code": "https://github.com/miftahganzz/AI-Telegram-Bot-v2"
+    }
+  }
+]
