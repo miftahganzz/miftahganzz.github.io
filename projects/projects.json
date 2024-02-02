@@ -30,16 +30,6 @@
     }
   },
   {
-    "name": "Telegram Bot",
-    "desc": "Telegram Bot AI is a bot that is created using JS, and runs the NodeJS environment, and is integrated with the Telegram Bot API.",
-    "image": "telegram",
-    "category": "bot",
-    "links": {
-      "view": "https://t.me/zexchatbot_bot",
-      "code": "https://github.com/miftahganzz/AI-Telegram-Bot-v2"
-    }
-    },
-    {
     "name": "Shortener Link",
     "desc": "Shortin is a website built using Express JS Frame Work, Tailwind Css, and Node JS Run environment.",
     "image": "shortin",
@@ -48,8 +38,8 @@
       "view": "https://shortin.my.id",
       "code": "https://github.com/miftahganzz/Shortener-Website"
     }
-    },
-    {
+  },
+  {
     "name": "Whois Lookup",
     "desc": "Whois is a website built using PHP.",
     "image": "whois",
@@ -58,5 +48,15 @@
       "view": "https://whois.miftah.xyz",
       "code": "https://github.com/miftahganzz/Whois-Website"
     }
-  }
+  },
+  {
+    "name": "Telegram Bot",
+    "desc": "Telegram Bot AI is a bot that is created using JS, and runs the NodeJS environment, and is integrated with the Telegram Bot API.",
+    "image": "telegram",
+    "category": "bot",
+    "links": {
+      "view": "https://t.me/zexchatbot_bot",
+      "code": "https://github.com/miftahganzz/AI-Telegram-Bot-v2"
+    }
+  },
 ]
