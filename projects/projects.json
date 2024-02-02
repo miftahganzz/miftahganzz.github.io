@@ -37,6 +37,7 @@
     "links": {
       "view": "https://t.me/zexchatbot_bot",
       "code": "https://github.com/miftahganzz/AI-Telegram-Bot-v2"
+    }
     },
     {
     "name": "Shortener Link",
@@ -46,6 +47,7 @@
     "links": {
       "view": "https://shortin.my.id",
       "code": "https://github.com/miftahganzz/Shortener-Website"
+    }
     },
     {
     "name": "Whois Lookup",
