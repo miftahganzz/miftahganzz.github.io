@@ -37,6 +37,24 @@
     "links": {
       "view": "https://t.me/zexchatbot_bot",
       "code": "https://github.com/miftahganzz/AI-Telegram-Bot-v2"
+    },
+    {
+    "name": "Shortener Link",
+    "desc": "Shortin is a website built using Express JS Frame Work, Tailwind Css, and Node JS Run environment.",
+    "image": "shortin",
+    "category": "website",
+    "links": {
+      "view": "https://shortin.my.id",
+      "code": "https://github.com/miftahganzz/Shortener-Website"
+    },
+    {
+    "name": "Whois Lookup",
+    "desc": "Whois is a website built using PHP.",
+    "image": "whois",
+    "category": "website",
+    "links": {
+      "view": "https://whois.miftah.xyz",
+      "code": "https://github.com/miftahganzz/Whois-Website"
     }
   }
 ]
